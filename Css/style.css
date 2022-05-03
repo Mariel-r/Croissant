@@ -1,0 +1,24 @@
+body {
+  background: radial-gradient(
+    905px at 4.9% 85.8%,
+    rgb(255, 243, 242) 0.1%,
+    rgb(255, 247, 220) 57.6%
+  );
+}
+
+.info {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  max-width: 400px;
+  background-color: beige;
+  border: 1px solid #272144;
+}
+
+.links {
+  margin-top: 10px;
+  text-align: center;
+  color: #272144;
+  font-weight: bold;
+}
